@@ -14,10 +14,10 @@ html,body   {
   margin: .2rem;
 }
 .navbar-nav li {
-  padding-right: 1.3rem;
+  padding: .3rem;
 }
 .nav-link {
-  font-size: 1.1em !important;
+  font-size: 1.1em;
 }
 .carousel-inner img {
   width: 100%;
