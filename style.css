@@ -12,9 +12,10 @@ html,body   {
 .navbar-brand {
   padding: .2rem;
   margin: .2rem;
+  font-size: 2rem;
 }
-.navbar-nav li {
-  padding: .3rem;
+nav li {
+  padding: 1.3rem;
 }
 .nav-link {
   font-size: 1.1em;
