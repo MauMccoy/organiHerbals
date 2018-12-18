@@ -7,7 +7,7 @@ html,body   {
   color: 222;
 }
 .navbar {
-  padding: .8rem;
+  padding: .2rem;
 }
 .navbar-brand {
   padding: .2rem;
@@ -19,6 +19,9 @@ nav li {
 }
 .nav-link {
   font-size: 1.1em;
+}
+.carousel-inner {
+  max-height: 30rem;
 }
 .carousel-inner img {
   width: 100%;
@@ -32,7 +35,7 @@ nav li {
 }
 .carousel-indicators li {
   width: 4rem;
-  height: .5rem;
+  height: .9rem;
   padding: .5rem;
   margin: .5rem;
 }
@@ -41,7 +44,7 @@ nav li {
 }
 .carousel-caption  {
   position: absolute;
-  top: 50%;
+  top: 45%;
   transform: translateY(-50%);
 }
 .carousel-caption h2 {
